@@ -1,0 +1,420 @@
+[
+    {
+  "division": "Dhaka",
+  "districts": [
+    {
+      "name": "Dhaka",
+      "upazilas": [
+        {
+          "name": "Dhamrai",
+          "unions": ["Amta", "Baisakanda", "Balia", "Bhararia", "Chauhat", "Dhamrai", "Gangutia", "Jadunathpur", "Kulla", "Kushura", "Nannar", "Rowail", "Sanora", "Sombhag", "Suapur", "Suti Para"]
+        },
+        {
+          "name": "Dohar",
+          "unions": ["Bilaspur", "Dohar", "Hazratpur", "Hemsana", "Kachra", "Kushumhati", "Mahmudpur", "Muksudpur", "Narisha", "Nayabari", "Roypara", "Sutarpara"]
+        },
+        {
+          "name": "Keraniganj",
+          "unions": ["Ati", "Basta", "Hazratpur", "Kalatia", "Konda", "Ruhitpur", "Savar", "Shimulia", "Taranagar", "Tegharia"]
+        },
+        {
+          "name": "Nawabganj",
+          "unions": ["Agla", "Bakshanagar", "Balur Char", "Dulalpur", "Ghagra", "Joykrishnapur", "Kayet Para", "Kola", "Koraith", "Kushura", "Nayansree", "Shikari Para", "Sholla", "Sonmania"]
+        },
+        {
+          "name": "Savar",
+          "unions": ["Amin Bazar", "Ashulia", "Banagram", "Bhakurta", "Dakshin Khan", "Kaundia", "Pathalia", "Savar", "Shimulia", "Tetuljhora", "Yearpur"]
+        }
+      ]
+    },
+    {
+      "name": "Faridpur",
+      "upazilas": [
+        {
+          "name": "Alfadanga",
+          "unions": ["Alfadanga", "Bana", "Buraich", "Gopalpur", "Panchuria", "Tagarbanda"]
+        },
+        {
+          "name": "Bhanga",
+          "unions": ["Algi", "Azimnagar", "Bhanga", "Chandra", "Gharua", "Hamirdi", "Kalamridha", "Kazipur", "Narikel Baria", "Ratadaha"]
+        },
+        {
+          "name": "Boalmari",
+          "unions": ["Boalmari", "Chatul", "Dadpur", "Ghoshpur", "Gunbaha", "Moyna", "Parameshwardi", "Rupapat", "Satair", "Shekhar"]
+        },
+        {
+          "name": "Charbhadrasan",
+          "unions": ["Bishwa", "Char Bhadrasan", "Char Harirampur", "Char Jhukunda", "Gazirtek", "Ramnagar", "Sadarpur"]
+        },
+        {
+          "name": "Faridpur Sadar",
+          "unions": ["Aliabad", "Ambikapur", "Char Madhabdia", "Decreerchar", "Dumain", "Greda", "Ishan Gopalpur", "Kaijuri", "Kanaipur", "Krishnapur", "Majchar", "Nawabpur", "Uttar Channel", "Uttar Panchuria"]
+        },
+        {
+          "name": "Madhukhali",
+          "unions": ["Bagat", "Dumain", "Jahapur", "Kamarkhali", "Madhukhali", "Megchamni", "Noapara", "Raipur"]
+        },
+        {
+          "name": "Nagarkanda",
+          "unions": ["Ambikapur", "Chandra", "Gatti", "Jadunandi", "Kushna", "Moksedpur", "Nagarkanda", "Pura Para", "Talma", "Ulpur"]
+        },
+        {
+          "name": "Sadarpur",
+          "unions": ["Char Bishnupur", "Char Manair", "Dheukhali", "Kanaipur", "Krishnanagar", "Nawabpur", "Sadarpur", "Uttar Char"]
+        },
+        {
+          "name": "Saltha",
+          "unions": ["Atghar", "Ballabhdi", "Dangi", "Gatti", "Jamalpur", "Jania", "Kanaipur", "Saltha"]
+        }
+      ]
+    },
+    {
+      "name": "Gazipur",
+      "upazilas": [
+        {
+          "name": "Gazipur Sadar",
+          "unions": ["Baria", "Durgapur", "Gachha", "Maona", "Kaoraid", "Kashimpur", "Konabari", "Mirzapur", "Pubail", "Tongi"]
+        },
+        {
+          "name": "Kaliakair",
+          "unions": ["Atabaha", "Boali", "Chapair", "Dhaljora", "Fulbaria", "Kaliakair", "Mouchak", "Sreefaltali", "Sutrapur"]
+        },
+        {
+          "name": "Kapasia",
+          "unions": ["Barishaba", "Chandpur", "Durgapur", "Ghagotia", "Kapasia", "Karihata", "Rayed", "Sanmania", "Singasree", "Targaon", "Toke"]
+        },
+        {
+          "name": "Sreepur",
+          "unions": ["Barmi", "Gazipur", "Gosinga", "Mahera", "Rajabari", "Sreepur", "Telihati"]
+        },
+        {
+          "name": "Kaliganj",
+          "unions": ["Baktarpur", "Jamalpur", "Kaliganj", "Moktarpur", "Nagari", "Tumulia"]
+        }
+      ]
+    },
+    {
+      "name": "Gopalganj",
+      "upazilas": [
+        {
+          "name": "Gopalganj Sadar",
+          "unions": ["Batikamari", "Borashi", "Dumuria", "Gopinathpur", "Haridaspur", "Jalirpar", "Karaia", "Kati", "Khandarpara", "Lakshmipur", "Ratoil", "Ujani"]
+        },
+        {
+          "name": "Kashiani",
+          "unions": ["Bethuri", "Fukura", "Hatiara", "Kashiani", "Maheshpur", "Mamudpur", "Nijamkandi", "Orakandi", "Parulia", "Rajpat", "Raghdi", "Ratail"]
+        },
+        {
+          "name": "Kotalipara",
+          "unions": ["Amtali", "Bandhabari", "Ghager Char", "Kandi", "Kotalipara", "Kushla", "Pinjuri", "Radhaganj", "Ramshil"]
+        },
+        {
+          "name": "Muksudpur",
+          "unions": ["Bahugram", "Banshbaria", "Batikamari", "Bhabrasur", "Dignagar", "Gopalganj", "Hiron", "Kalabari", "Kashiani", "Khandarpara", "Kotadia", "Maharajpur", "Mochna", "Narayanpur", "Panihati", "Raghunathpur", "Sajail", "Satpar", "Ujani"]
+        },
+        {
+          "name": "Tungipara",
+          "unions": ["Barni", "Dumuria", "Gopalganj", "Kochua", "Panihati", "Patgati", "Tungipara"]
+        }
+      ]
+    },
+    {
+      "name": "Kishoreganj",
+      "upazilas": [
+        {
+          "name": "Austagram",
+          "unions": ["Adampur", "Austagram", "Bangal Para", "Deoghar", "Kalma", "Kastul", "Khyerpur", "Purba Austagram"]
+        },
+        {
+          "name": "Bajitpur",
+          "unions": ["Bajitpur", "Dighirpar", "Dilalpur", "Gazir Char", "Halimpur", "Hilochia", "Shohagdi"]
+        },
+        {
+          "name": "Bhairab",
+          "unions": ["Bhairab", "Gazaria", "Habirbari", "Kalikaprashad", "Manshadi", "Mohinanda", "Rasulpur", "Shibpur"]
+        },
+        {
+          "name": "Hossainpur",
+          "unions": ["Gobaria Abdullahpur", "Jafarabad", "Nandail", "Pailarkandi", "Sidhla", "Sidhla"]
+        },
+        {
+          "name": "Itna",
+          "unions": ["Badla", "Dhonpur", "Itna", "Joysiddhi", "Mriga", "Raytoli"]
+        },
+        {
+          "name": "Karimganj",
+          "unions": ["Baragharia", "Dehunda", "Guilandi", "Jaraitala", "Karimganj", "Kiraton", "Latibabad", "Niamatpur", "Noabad", "Sahata"]
+        },
+        {
+          "name": "Katiadi",
+          "unions": ["Achmita", "Banagram", "Chandpur", "Jalalpur", "Kargaon", "Lakshmipur", "Masua", "Shahid Wahabpur"]
+        },
+        {
+          "name": "Kishoreganj Sadar",
+          "unions": ["Bajitpur", "Binnati", "Chhilarchar", "Dilalpur", "Faridpur", "Garpara", "Jasodal", "Maizkhapan", "Maria", "Rashidabad", "Sholakia"]
+        },
+        {
+          "name": "Kuliarchar",
+          "unions": ["Chhoysuti", "Gobaria", "Kuliarchar", "Osmanpur", "Ramdi", "Sidhla"]
+        },
+        {
+          "name": "Mithamain",
+          "unions": ["Bairati", "Dighirpar", "Dilalpur", "Hossainpur", "Keorjori", "Mithamain", "Sidhla"]
+        },
+        {
+          "name": "Nikli",
+          "unions": ["Dampara", "Gujadia", "Jaraitala", "Karpasha", "Nikli", "Singpur"]
+        },
+        {
+          "name": "Pakundia",
+          "unions": ["Barogharia", "Char Faradi", "Egarasindur", "Hosendi", "Pakundia", "Patar Char", "Sukhia"]
+        },
+        {
+          "name": "Tarail",
+          "unions": ["Dampara", "Dilalpur", "Gazir Char", "Jangalia", "Roypur", "Tarail"]
+        }
+      ]
+    },
+    {
+      "name": "Madaripur",
+      "upazilas": [
+        {
+          "name": "Madaripur Sadar",
+          "unions": ["Bahadurpur", "Bandikhola", "Char Kalibari", "Charmuguria", "Habiganj", "Kalkini", "Khalia", "Khoajpur", "Kunia", "Madaripur", "Panchkhola", "Rasti", "Shahabrampur"]
+        },
+        {
+          "name": "Kalkini",
+          "unions": ["Alinagar", "Baligram", "Banshkandi", "Char Darish", "Dasar", "Enayetnagar", "Gopalpur", "Kalkini", "Kayaltia", "Lakshmipur", "Nabagram", "Ramjanpur", "Sahabrampur", "Sarakardi", "Sekhmatia"]
+        },
+        {
+          "name": "Rajoir",
+          "unions": ["Amgram", "Bajitpur", "Damudya", "Hajipur", "Hat Krishapur", "Karpasad", "Khanganj", "Paik Para", "Rajoir", "Taragunia"]
+        },
+        {
+          "name": "Shibchar",
+          "unions": ["Bandarkhola", "Char Janajat", "Dattapara", "Dhaneshwarkati", "Ghatmajhi", "Kadirpur", "Kanthalbari", "Madbar Char", "Narikelbari", "Puran Chandradwip", "Sannasi", "Shibchar", "Sidhirkandi", "Umedpur"]
+        }
+      ]
+    },
+    {
+      "name": "Manikganj",
+      "upazilas": [
+        {
+          "name": "Daulatpur",
+          "unions": ["Bachamara", "Bagoan", "Birtara", "Chak Mirpur", "Daulatpur", "Dhamsar", "Gangabardi", "Jiyanpur", "Kalia", "Khashkhola", "Krishnapur", "Lakshmikol", "Mohanpur", "Panchkhola", "Rasulpur", "Singjuri"]
+        },
+        {
+          "name": "Ghior",
+          "unions": ["Baliakhora", "Baniajuri", "Baluakandi", "Baraid", "Ghior", "Nali", "Paila"]
+        },
+        {
+          "name": "Harirampur",
+          "unions": ["Azimnagar", "Balara", "Gala", "Harirampur", "Jhaudi", "Kachua", "Kara", "Lakshmipur", "Narisha", "Saturia", "Sutalari"]
+        },
+        {
+          "name": "Manikganj Sadar",
+          "unions": ["Atigram", "Betila", "Dighi", "Garpara", "Hatikumrul", "Jamirta", "Nabogram", "Putail", "Shibaloy", "Teota"]
+        },
+        {
+          "name": "Saturia",
+          "unions": ["Baliati", "Baraid", "Dighi", "Dumain", "Ghagotia", "Jaitra", "Kachua", "Kashimpur", "Khagdiya", "Kodalia", "Masundi", "Nabagram", "Saturia"]
+        },
+        {
+          "name": "Shibaloy",
+          "unions": ["Arua", "Dhanikhola", "Gatti", "Joymontop", "Kumari", "Majhbari", "Noyarhat", "Shibaloy", "Teota", "Uthali"]
+        },
+        {
+          "name": "Singair",
+          "unions": ["Baldhara", "Balla", "Basan", "Chandhar", "Charigram", "Dumdumi", "Jamirta", "Joymontop", "Kumari", "Sadra", "Singair", "Taler Char", "Zamsha"]
+        }
+      ]
+    },
+    {
+      "name": "Munshiganj",
+      "upazilas": [
+        {
+          "name": "Gazaria",
+          "unions": ["Baluakandi", "Bausia", "Bhaber Char", "Gazaria", "Guagachia", "Hossaindi", "Imampur", "Tenger Char"]
+        },
+        {
+          "name": "Lohajang",
+          "unions": ["Baultali", "Bejgaon", "Gaodia", "Haldia", "Kalma", "Kanaksar", "Khidirpur", "Kumarbhog", "Medini Mandal", "Taragong"]
+        },
+        {
+          "name": "Munshiganj Sadar",
+          "unions": ["Adhara", "Bajrayogini", "Barikhal", "Betkahat", "Dighirpar", "Hasail", "Kola", "Mirkadim", "Mollahkandi", "Panchasar", "Rampal", "Silai"]
+        },
+        {
+          "name": "Sirajdikhan",
+          "unions": ["Baghra", "Baskhali", "Ichhapur", "Kola", "Kumrabaria", "Magarpara", "Malkhanagar", "Rajnagar", "Shekher Nagar", "Sholaghar", "Sreenagar"]
+        },
+        {
+          "name": "Sreenagar",
+          "unions": ["Atpara", "Baghra", "Baraikhali", "Bishnupur", "Dighirpar", "Kola", "Kumrabaria", "Patabhog", "Rarikhal", "Sholaghar", "Tantar"]
+        },
+        {
+          "name": "Tongibari",
+          "unions": ["Arial", "Autshahi", "Betkahat", "Dhipur", "Dighirpar", "Hasail", "Kagdi", "Kathadia", "Khidirpur", "Kumarbhog", "Magarpara", "Medini Mandal", "Panchgaon", "Sonarang"]
+        }
+      ]
+    },
+    {
+      "name": "Narayanganj",
+      "upazilas": [
+        {
+          "name": "Araihazar",
+          "unions": ["Araihazar", "Bishnandi", "Brahmandi", "Duptara", "Fatehpur", "Khagakanda", "Mahmudpur", "Sadasardi", "Satgram", "Uchitpur"]
+        },
+        {
+          "name": "Bandar",
+          "unions": ["Bandar", "Dakshin Surya", "Dhamgar", "Kutubpur", "Madanpur", "Musapur", "Shubhadya"]
+        },
+        {
+          "name": "Narayanganj Sadar",
+          "unions": ["Alir Tek", "Baktaballi", "Enayetnagar", "Fatullah", "Gognagar", "Kanchpur", "Murapara", "Nabiganj", "Siddhirganj"]
+        },
+        {
+          "name": "Rupganj",
+          "unions": ["Bholaba", "Golakandail", "Kanchan", "Kayet Para", "Murapara", "Rupganj", "Tarabo"]
+        },
+        {
+          "name": "Sonargaon",
+          "unions": ["Baidyer Bazar", "Baradi", "Jampur", "Kachpur", "Mugrapara", "Noagaon", "Pirijpur", "Sadipur", "Sanmandi"]
+        }
+      ]
+    },
+    {
+      "name": "Narsingdi",
+      "upazilas": [
+        {
+          "name": "Belabo",
+          "unions": ["Belabo", "Bajnaba", "Bajnaba", "Char Ujilaba", "Ghorashal", "Patuli", "Sallabad"]
+        },
+        {
+          "name": "Monohardi",
+          "unions": ["Bara Chapa", "Chalakchar", "Charmandalia", "Golabari", "Jinardi", "Monohardi", "Sreekol", "Tengarchar"]
+        },
+        {
+          "name": "Narsingdi Sadar",
+          "unions": ["Alokbali", "Amdia", "Char Dighaldi", "Charmandalia", "Chinishpur", "Hajipur", "Kanthalia", "Karimpur", "Madhabdi", "Mahishasura", "Meherpara", "Nazarpur", "Nurallaabad", "Paikar Char", "Panchdona", "Silmandi"]
+        },
+        {
+          "name": "Palash",
+          "unions": ["Char Sindur", "Danga", "Gazaria", "Ghorashal", "Jinardi", "Palash", "Parbatipur", "Sreekol"]
+        },
+        {
+          "name": "Raipura",
+          "unions": ["Adiabad", "Alipura", "Amirganj", "Banshgari", "Chanderkandi", "Char Aralia", "Danga", "Gazaria", "Kalakanda", "Malikandi", "Musapur", "Rajnagar", "Roypura", "Sreekol"]
+        },
+        {
+          "name": "Shibpur",
+          "unions": ["Ayubpur", "Baghaba", "Chakradha", "Chanderkandi", "Charmandalia", "Dulalpur", "Machhimpur", "Maniardi", "Masimpur", "Putia", "Sadhar Char", "Shibpur"]
+        }
+      ]
+    },
+    {
+      "name": "Rajbari",
+      "upazilas": [
+        {
+          "name": "Baliakandi",
+          "unions": ["Bahadurpur", "Baliakandi", "Islampur", "Jamalpur", "Jangal", "Mochna", "Mulghar", "Panchkhola", "Sonbaria"]
+        },
+        {
+          "name": "Goalandaghat",
+          "unions": ["Agailjhara", "Chandradighalia", "Dhaneshwarkati", "Gala", "Gopinathpur", "Ramdia", "Sajail", "Sreekol"]
+        },
+        {
+          "name": "Pangsha",
+          "unions": ["Babura", "Bahadurpur", "Baliakandi", "Barat", "Barsur", "Charmuguria", "Debagram", "Dighia", "Gobindapur", "Kadirpur", "Kalimahar", "Kutubpur", "Maurat", "Pangsha", "Ratandia", "Sajail", "Sreekol"]
+        },
+        {
+          "name": "Rajbari Sadar",
+          "unions": ["Alipur", "Banibaha", "Dadshi", "Khanganj", "Khankhanapur", "Mrigi", "Mulghar", "Panchuria", "Rajbari", "Ramkantapur", "Shahid Wahabpur"]
+        }
+      ]
+    },
+    {
+      "name": "Shariatpur",
+      "upazilas": [
+        {
+          "name": "Bhedarganj",
+          "unions": ["Arjuna", "Bhedarganj", "Char Bhedarganj", "Char Dukhia", "Char Hazari", "Char Parbati", "Chikandi", "Dhaneshwarkati", "Goshairhat", "Kachikata", "Kadirpur", "Kanthalbari", "Karpasha", "Kutubpur", "Narayanpur", "Rajnagar", "Ramnathpur", "Sakhipur", "Tapsi"]
+        },
+        {
+          "name": "Damudya",
+          "unions": ["Damudya", "Darul Aman", "Dhaneshwarkati", "Goshairhat", "Kachikata", "Kadirpur", "Kanthalbari", "Karpasha", "Kutubpur", "Narayanpur", "Rajnagar", "Ramnathpur", "Sakhipur", "Tapsi"]
+        },
+        {
+          "name": "Gosairhat",
+          "unions": ["Gosairhat", "Idilpur", "Kodalpur", "Kuchaipatti", "Naria", "Samantasar", "Tulasar"]
+        },
+        {
+          "name": "Naria",
+          "unions": ["Bhojeswar", "Chandanbari", "Char Atra", "Dumdi", "Japsa", "Kadirpur", "Kanthalbari", "Karpasha", "Naria", "Umedpur"]
+        },
+        {
+          "name": "Shariatpur Sadar",
+          "unions": ["Angaria", "Baghil", "Chikandi", "Chitalia", "Damudya", "Dhaneshwarkati", "Goshairhat", "Kachikata", "Kadirpur", "Kanthalbari", "Karpasha", "Kutubpur", "Narayanpur", "Rajnagar", "Ramnathpur", "Sakhipur", "Tapsi"]
+        },
+        {
+          "name": "Zanjira",
+          "unions": ["Bara Gopalpur", "Bara Krishnagar", "Bara Manika", "Bara Shibpur", "Char Krishnagar", "Char Manika", "Char Shibpur", "Zanjira"]
+        }
+      ]
+    },
+    {
+      "name": "Tangail",
+      "upazilas": [
+        {
+          "name": "Basail",
+          "unions": ["Basail", "Fulki", "Habla", "Kachua", "Kanchanpur", "Kashil", "Kawtail", "Mokna"]
+        },
+        {
+          "name": "Bhuapur",
+          "unions": ["Arjuna", "Balaishimul", "Baniajuri", "Bhuapur", "Dhopakandi", "Falda", "Gabsara", "Nikrail"]
+        },
+        {
+          "name": "Delduar",
+          "unions": ["Atia", "Delduar", "Deoli", "Dubail", "Elasin", "Fazilhati", "Lauhati", "Pathrail"]
+        },
+        {
+          "name": "Dhanbari",
+          "unions": ["Bajitpur", "Balla", "Baniajan", "Barabari", "Dhanbari", "Golabari", "Haldia", "Jadabpur", "Jadunathpur", "Kushmail"]
+        },
+        {
+          "name": "Ghatail",
+          "unions": ["Anehola", "Deopara", "Dhala", "Digalkandi", "Ghatail", "Jamuria", "Lohani", "Rasulpur", "Sandhanpur"]
+        },
+        {
+          "name": "Gopalpur",
+          "unions": ["Aloa", "Dhopakandi", "Dumain", "Gopalpur", "Hadira", "Hemnagar", "Jhawail", "Mirzapur"]
+        },
+        {
+          "name": "Kalihati",
+          "unions": ["Balla", "Bangra", "Bir Basinda", "Dhanbari", "Dhubaria", "Gohaliabari", "Kalihati", "Nagarbari", "Sahadevpur", "Salla"]
+        },
+        {
+          "name": "Madhupur",
+          "unions": ["Alokdia", "Arankhola", "Ausnara", "Golabari", "Mirzabari", "Sholakuri", "Sukhari"]
+        },
+        {
+          "name": "Mirzapur",
+          "unions": ["Ahmedabad", "Akur Takur", "Anaitara", "Bahuria", "Banail", "Banshtail", "Bhaora", "Fatehpur", "Gorai", "Jamurki", "Latifpur", "Mahera", "Mirzapur", "Tarafpur"]
+        },
+        {
+          "name": "Nagarpur",
+          "unions": ["Baghil", "Dhuburia", "Durgapur", "Gayhata", "Kachua", "Mamudnagar", "Mokna", "Nagarpur", "Pakutia", "Sahabathpur"]
+        },
+        {
+          "name": "Sakhipur",
+          "unions": ["Baheratail", "Balla", "Banshtail", "Bhaora", "Dakshin Bangora", "Dakshin Paik Para", "Dhalapara", "Gala", "Harirampur", "Jadunathpur", "Kochua", "Kumarbhog", "Paik Para", "Sakhipur"]
+        },
+        {
+          "name": "Tangail Sadar",
+          "unions": ["Baghil", "Dhanbari", "Gala", "Gharinda", "Hugra", "Kakua", "Karatia", "Katuli", "Magra", "Mahamudnagar", "Mamudnagar", "Nagarpur", "Pakutia", "Sahabathpur", "Tangail"]
+        }
+      ]
+    }
+  ]
+}
+]
