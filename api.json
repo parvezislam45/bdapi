@@ -24,6 +24,12 @@
         {
           "name": "Savar",
           "unions": ["Amin Bazar", "Ashulia", "Banagram", "Bhakurta", "Dakshin Khan", "Kaundia", "Pathalia", "Savar", "Shimulia", "Tetuljhora", "Yearpur"]
+        },
+        {
+         "name": "Dhaka North City Corporation"
+        },
+        {
+         "name": "Dhaka South City Corporation"
         }
       ]
     },
@@ -300,11 +306,11 @@
         },
         {
           "name": "Palash",
-          "unions": ["Char Sindur", "Danga", "Gazaria", "Ghorashal", "Jinardi", "Palash", "Parbatipur", "Sreekol"]
+          "unions": ["Char Sindur", "Danga", "Gazaria", "Ghorashal", "Jinardi", "Palash"]
         },
         {
           "name": "Raipura",
-          "unions": ["Adiabad", "Alipura", "Amirganj", "Banshgari", "Chanderkandi", "Char Aralia", "Danga", "Gazaria", "Kalakanda", "Malikandi", "Musapur", "Rajnagar", "Roypura", "Sreekol"]
+          "unions": ["Adiabad", "Alipura", "Amirganj", "Banshgari", "Chanderkandi", "Char Aralia","Chandpur","Char Madhua","Char Subuddi","Daukar Char","Hairmara","Maheshpur","Morjal","Mirzanagar","Mirzapur","Mirzarchar","Musapur","Nilakhya","Palashtali","Paratali","Radhanagar","Raipura","Sreenagar","Uttar Bakharnagar"]
         },
         {
           "name": "Shibpur",
@@ -418,3 +424,5 @@
   ]
 }
 ]
+
+
